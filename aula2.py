@@ -1,0 +1,1 @@
+print("professor,é com muito pesar que eu suplico para o senhor adicionar 1 ponto na minha nota em sua materia")
