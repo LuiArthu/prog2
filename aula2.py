@@ -4,9 +4,12 @@ def funcao():
 
 funcao()
 funcao()
-funcao()
-funcao()
-funcao()
-funcao()
-funcao()
-funcao()
+
+
+def rapaz(x, y):
+    #x = 2
+    #y = 2
+    soma = int
+    soma = x + y
+    print(soma)
+rapaz(5,5)
