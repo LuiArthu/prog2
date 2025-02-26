@@ -17,15 +17,12 @@ print("---------------------------------------------")
 
 if (selecionador == '+'):
     print(f"{num1} + {num2} = {num1 + num2}")
-else:
-    if (selecionador == '-'):
-        print(f"{num1} - {num2} = {num1 - num2}")
+elif (selecionador == '-'):
+    print(f"{num1} - {num2} = {num1 - num2}")
+elif (selecionador == 'X'):
+    print(f"{num1} X {num2} = {num1 * num2}")
+elif (selecionador == ':'):
+    if(num2 == 0):
+        print("divisão com 0")
     else:
-        if (selecionador == 'X'):
-            print(f"{num1} X {num2} = {num1 * num2}")
-        else:
-            if (selecionador == ':'):
-                if(num2 == 0):
-                    print("divisão com 0")
-                else:
-                    print(f"{num1} : {num2} = {num1 / num2}")
+        print(f"{num1} : {num2} = {num1 / num2}")
