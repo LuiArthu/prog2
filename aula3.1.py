@@ -34,5 +34,6 @@ multiplicar(var1, 8)
 var2 = int(input("digite um numero:"))
 var3 = int(input("digite um numero:"))
 
+
 multiplicar(var2, var3)
     
