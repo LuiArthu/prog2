@@ -25,4 +25,7 @@ else:
             print(f"{num1} X {num2} = {num1 * num2}")
         else:
             if (selecionador == ':'):
-                print(f"{num1} : {num2} = {num1 / num2}")
+                if(num2 == 0):
+                    print("divisão com 0")
+                else:
+                    print(f"{num1} : {num2} = {num1 / num2}")
