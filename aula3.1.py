@@ -5,8 +5,6 @@
 
 #funcao()
 
-
-
 def dividir(a, b):
     if (b == 0):
         print("divisão por 0")
