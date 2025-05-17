@@ -1,0 +1,5 @@
+Primeira linha do diário.
+O modo 'w' começa o arquivo do zero.
+Acentuação funciona!
+aEsta linha foi adicionada depois.
+Mais uma linha anexada.
