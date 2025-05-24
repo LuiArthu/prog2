@@ -19,7 +19,8 @@ class eu (pai):
         self.planta3 = planta3
 
     def exibe_planta (self):
-        super().exibe_planta(f" e {self.planta3}")
+        super().exibe_planta()
+        return (f"e {self.planta3}")
 
 vo = vo("batata")
 pai = pai("batata","uva")
