@@ -1,4 +1,4 @@
-print("Hello World!     B==D")
+print("Hello World!")
 
 a = 5
 b = 6
